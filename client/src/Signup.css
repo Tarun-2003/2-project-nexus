@@ -1,0 +1,19 @@
+#main{
+    background-image: url("./food.jpg") ; 
+    background-repeat: no-repeat;
+    position: relative;
+}
+body{
+    background-color:#212529;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+
+.modal-body{
+    color: black;
+}
+#signup{
+    color: black;
+}
